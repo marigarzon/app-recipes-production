@@ -1,0 +1,87 @@
+{
+  "users": [
+    {
+      "user": "admin",
+      "email": "zapataval2304@gmail.com",
+      "name": "Jaime Zapata",
+      "password": "1234",
+      "phone": "3246720301",
+      "id": "0054"
+    },
+    {
+      "id": "163a",
+      "user": "super-admin",
+      "password": 432323,
+      "name": "Ana Cano",
+      "email": "correo@correo.com",
+      "phone": "3152001282"
+    },
+    {
+      "id": "4444",
+      "user": "jzapval",
+      "password": 23452345,
+      "name": "Jaime Zapata",
+      "email": "correo@correo.com",
+      "phone": "3246720301"
+    },
+    {
+      "id": "7142",
+      "user": "jaimezzapata",
+      "email": "zapataval2304@gmail.com",
+      "name": "Jaime Zapata",
+      "password": "34523425",
+      "phone": "3246720301"
+    },
+    {
+      "id": "5024",
+      "user": "lalu",
+      "email": "lalu@gmail.com",
+      "name": "Luisa Cano",
+      "password": "123456",
+      "phone": "1235234"
+    },
+    {
+      "id": "b1a92946-fb64-4be3-acfb-b6dad27cb2af",
+      "user": "andre",
+      "email": "otrocorreo@gmail.com",
+      "name": "Andrea Perez",
+      "password": "1232314",
+      "phone": "43524"
+    }
+  ],
+  "vegetarians": [
+    {
+      "nombre": "Pastas al Pesto Rojo",
+      "tiempo": "1 hora",
+      "dificultad": "Media",
+      "descripcion": "Fetuccini largo con pesto rojo",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVRs8HYIdSMiMwFgNQoXepy6kA-p6pXyGRrov5BH8T-3gCwl-B4jfOEwmpeT191kqwEMkw_mm6aLBEaonBxIgd6wus57Fi8o_nsYtDgU0lTUiVVjlguIl08GrIylB6PPtHLlO_vwujR7GO-Tdp_4KAwVeVEq2KTxjIhUkR-o3NrTEgTynqBUI8ZLjd/s16000/Pesto%20rojo%20Portada.jpg",
+      "id": "155d"
+    },
+    {
+      "nombre": "panini espinaca",
+      "tiempo": "20 minutos",
+      "dificultad": "Fácil",
+      "descripcion": "pan con espinaca",
+      "img": "https://as2.ftcdn.net/v2/jpg/04/34/53/71/1000_F_434537182_KRKEcF4tmMJKXRbFCImRsQMp8hVusSI2.jpg",
+      "id": "155d-1"
+    },
+    {
+      "nombre": "Calabaza caramelizada con queso de cabra",
+      "tiempo": "25 minutos",
+      "dificultad": "facil",
+      "descripcion": "La calabaza violín se destaca por su distintiva forma alargada, que recuerda a la de un violín. Su piel es de color beige claro y su pulpa, de un intenso tono naranja, ofrece un sabor dulce y suave. Este vegetal versátil es ideal para una amplia variedad de platos, desde sopas hasta postres, gracias a su textura cremosa y su dulce sabor.",
+      "img": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y24_R09_W26_ES_ESVV19428-2_Main_high-ea0217e0.jpg",
+      "id": "155d-2"
+    },
+    {
+      "nombre": "Pastas al Pesto Rojo con Almendras",
+      "descripcion": "Fetuccini largo con pesto rojo a base de almendras, con un sabor más suave y delicado",
+      "tiempo": "45 minutos",
+      "dificultad": "Fácil",
+      "img": "https://example.com/pasta-pesto-rojo-almendras.jpg",
+      "id": "155d-5"
+    }
+  ],
+  "no-vegetarians": []
+}

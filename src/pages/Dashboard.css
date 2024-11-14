@@ -1,0 +1,58 @@
+main {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+main aside {
+    width: 30%;
+    background-color: black;
+}
+
+main aside a {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    letter-spacing: 0.8px;
+    text-transform: uppercase;
+}
+
+main section {
+    width: 70%;
+    height: 100%;
+    background-color: rgb(234, 230, 230);
+    display: flex;
+    justify-content: space-between;
+}
+
+main section h2,
+main section .glass {
+    position: absolute;
+    top: 1%;
+}
+
+main section h2 {
+    top: 2.5%;
+}
+
+main section .glass {
+    width: 70%;
+    height: 60px;
+    background-color: rgba(53, 6, 6, 0.193);
+}
+
+.container {
+    margin-top: 5%;
+    padding: 1%;
+}
+
+.btn-create {
+    margin: 20px;
+    position: absolute;
+    top: 6%;
+}
+
+.container div{
+    margin-top: 5%;
+}
